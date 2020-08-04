@@ -1,7 +1,7 @@
 .header{
     height: 85vh;
     width: 100%;
-    background-image: linear-gradient(to right, rgba(12, 72, 95, 0.9), rgba(0,0,0,.5)), url("/img/dc5.jpg");
+    background-image: linear-gradient(to right, rgba(12, 72, 95, 0.9), rgba(0,0,0,.5)), url("/img/img1.jpg");
     background-size: cover;
     color: white;
 }
@@ -22,5 +22,6 @@
     text-transform: uppercase;
 }
 .message{
-    
+    padding-top: 4px;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
 }
