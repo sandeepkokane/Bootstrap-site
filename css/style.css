@@ -1,8 +1,7 @@
 .header{
     height: 85vh;
     width: 100%;
-    background-image: linear-gradient(to right, rgba(12, 72, 95, 0.9), rgba(0,0,0,.5)), url("/img/img1.jpg");
-    background-size: cover;
+    background-image: linear-gradient(to right, rgba(12, 72, 95, 0.9), rgba(0,0,0,.5)), url("https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");    background-size: cover;
     color: white;
 }
 .site-navbar{
