@@ -1,0 +1,23 @@
+.header{
+    height: 85vh;
+    width: 100%;
+    background-image: linear-gradient(to right, rgba(12, 72, 95, 0.9), rgba(0,0,0,.5)), url("/img/dc5.jpg");
+    background-size: cover;
+    color: white;
+}
+.site-title{
+    padding: 5px 5px;
+    border: 4px solid red;
+    border-radius: 20px;
+}
+
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+
+.button1{
+    padding: 1.1em 2em;
+    border-radius: 15px !important;
+    text-transform: uppercase;
+}
